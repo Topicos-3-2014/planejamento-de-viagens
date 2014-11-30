@@ -1,0 +1,9 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:planyourtrip/web.git
+[submodule "server"]
+	path = server
+	url = git@github.com:planyourtrip/server.git
+[submodule "camera"]
+	path = camera
+	url = git@github.com:planyourtrip/camera.git
