@@ -7,3 +7,6 @@
 [submodule "camera"]
 	path = camera
 	url = git@github.com:planyourtrip/camera.git
+[submodule "processor"]
+	path = processor
+	url = git@github.com:planyourtrip/processor.git
